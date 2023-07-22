@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+h1:hover,a:hover {
+	color: purple;
+}
+
+table,td,tr{
+	font-size: 40px;
+	border: 8px solid;
+}
+
+a{
+	text-decoration: none;
+	color:blue;
+}
+#numA {
+	display: inline-block;
+	font-size: 40px;
+}
+

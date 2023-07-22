@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+h1:hover {
+	color: purple;
+}
+
+table,td,tr{
+	font-size: 40px;
+	border: 8px solid;
+	padding: 10px;
+}
+
+input[type=submit],input[type=button]{
+	cursor:default;
+	font-family: 'DOSMyungjo';
+	background-color: teal;
+	margin: 1px;
+	border: 3px solid
+}

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+html{
+	text-align: center;
+}
+
+
+#move {
+	text-align: center;
+	text-decoration: none;
+	font-size: 100px;
+	color: blue;
+	margin: 100px;
+	display: block;
+}
+
+#move:hover {
+	font-weight: bold;
+	color: purple;
+	font-size: 100px;
+}

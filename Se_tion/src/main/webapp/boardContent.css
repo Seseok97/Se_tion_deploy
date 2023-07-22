@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+h1:hover {
+	color: purple;
+}
+
+table,td,tr{
+	font-size: 40px;
+	border: 8px solid;
+	padding: 10px;
+}
